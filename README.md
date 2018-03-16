@@ -1,2 +1,4 @@
-# scrape_repo1
-my first attempt at creating a scrape app
+# news-scraper
+News scraper app that uses cheerio to scrape a news site, mongodb to save news articles and comments, and express to serve the site and data.
+
+
